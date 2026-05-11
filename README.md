@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
@@ -9,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/gojo-jjk-anime-daddys-home-gif-3896396037223120151"  />
+<img align="right" height="150" src=".github/workflows/satoru-gojo---correndo.gif"  />
 
 ###
 
